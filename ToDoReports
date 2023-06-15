@@ -1,0 +1,421 @@
+06/15/2023 18:37:14.000000	www.stmarysspring.com	Wordpress server	none	GET	
+http://www.stmarysspring.com/blog/?wordfence_lh=1&hid=0A84E38205E5C6EEE57D9C363C517EDD&r=0.16324672327835565
+http://www.stmarysspring.com/blog/?wordfence_lh=1&hid=0A84E38205E5C6EEE57D9C363C517EDD&r=0.9142437031808432
+http://www.stmarysspring.com/blog/category/springs-in-daily-life/
+http://www.stmarysspring.com/blog/designing-tips-spring-based-ball-point-pen/
+http://www.stmarysspring.com/blog/wp-content/themes/wellington/css/genericons/genericons.css?ver=3.4.1
+...plus 15 more values...
+200	
+application/javascript
+image/jpeg
+image/png
+text/css
+text/html;%20charset=UTF-7
+text/javascript;charset=UTF-8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	M69765	129.4.220.101	169.62.133.106	SoftLayer Technologies	 	20	bluecoat_proxy_short
+6	06/15/2023 18:20:40.000000	awitness.com	Risky file ext in URL	none	GET	
+http://awitness.com/SMD-Software/SMD-TTS/Application%20Files/Torque%20to%20spreadsheet_1_1_0_0/Torque%20to%20spreadsheet.exe.manifest
+http://awitness.com/SMD-Software/SMD-TTS/Torque%20to%20spreadsheet.application
+200	
+application/x-ms-application
+application/x-ms-manifest
+unknown	J59941	10.160.178.42	64.90.43.194	New Dream Network, LLC	United States	2	bluecoat_proxy_short
+7	06/15/2023 18:08:52.000000	uvermont.mm.fcix.net	High event count	none	GET	
+http://uvermont.mm.fcix.net/centos/8-stream/BaseOS/x86_64/os/Packages/emacs-filesystem-26.1-11.el8.noarch.rpm
+http://uvermont.mm.fcix.net/centos/8-stream/BaseOS/x86_64/os/Packages/fuse-common-3.3.0-17.el8.x86_64.rpm
+http://uvermont.mm.fcix.net/centos/8-stream/BaseOS/x86_64/os/Packages/fuse3-3.3.0-17.el8.x86_64.rpm
+http://uvermont.mm.fcix.net/centos/8-stream/BaseOS/x86_64/os/Packages/fuse3-libs-3.3.0-17.el8.x86_64.rpm
+http://uvermont.mm.fcix.net/centos/8-stream/BaseOS/x86_64/os/Packages/groff-base-1.22.3-18.el8.x86_64.rpm
+...plus 48 more values...
+200	
+application/octet-stream
+application/x-redhat-package-manager
+text/xml
+libdnf (CentOS Stream 8; generic; Linux.x86_64)	-	10.14.65.33	132.198.255.58	University of Vermont	United States	53	bluecoat_proxy_short
+8	06/15/2023 17:38:11.000000	www.plantuml.com	HTTP POST	none	POST	
+http://www.plantuml.com/detroitchicago/greenoaks.gif?orig=0&ds=W3sidHlwZSI6InBhZ2V2aWV3IiwicGFnZXZpZXdfaWQiOiI3ZWM3MWUwMS1hMTg3LTRjN2EtNzhjYi1mZTZiZTJhMTRkYWMiLCJkb21haW5faWQiOiIxNzM3NzAiLCJ0X2Vwb2NoIjoxNjg2ODUwNjgyLCJkYXRhIjpbeyJuYW1lIjoiZGlzcGxheV9hZF92aWV3cG9ydF9weCIsInZhbCI6IjAifSx7Im5hbWUiOiJkaXNwbGF5X2FkX3ZpZXdwb3J0X2NvdW50IiwidmFsIjoiMCJ9LHsibmFtZSI6Im5hdGl2ZV9hZF92aWV3cG9ydF9weCIsInZhbCI6IjAifSx7Im5hbWUiOiJuYXRpdmVfYWRfdmlld3BvcnRfY291bnQiLCJ2YWwiOiIwIn0seyJuYW1lIjoiZGlzcGxheV9hZF9kb2NfcHgiLCJ2YWwiOiIwIn0seyJuYW1lIjoiZGlzcGxheV9hZF9kb2NfY291bnQiLCJ2YWwiOiIwIn0seyJuYW1lIjoibmF0aXZlX2FkX2RvY19weCIsInZhbCI6IjAifSx7Im5hbWUiOiJuYXRpdmVfYWRfZG9jX2NvdW50IiwidmFsIjoiMCJ9LHsibmFtZSI6InZpZXdwb3J0X3NpemUiLCJ2YWwiOiI5NDl4OTMzIn0seyJuYW1lIjoidmlld3BvcnRfcHgiLCJ2YWwiOiI4ODU0MTcifSx7Im5hbWUiOiJkb2NfcHgiLCJ2YWwiOiI4ODU0MTcifSx7Im5hbWUiOiJkb2NfaGVpZ2h0IiwidmFsIjoiOTMzIn1dfV0=
+http://www.plantuml.com/detroitchicago/greenoaks.gif?orig=0&ds=W3sidHlwZSI6InBhZ2V2aWV3IiwicGFnZXZpZXdfaWQiOiI3ZWM3MWUwMS1hMTg3LTRjN2EtNzhjYi1mZTZiZTJhMTRkYWMiLCJkb21haW5faWQiOiIxNzM3NzAiLCJ0X2Vwb2NoIjoxNjg2ODUwNjgyLCJkYXRhIjpbeyJuYW1lIjoibmF2aWdhdGlvbl90eXBlIiwidmFsIjoiMiJ9LHsibmFtZSI6InJlZGlyZWN0X2NvdW50IiwidmFsIjoiMCJ9XX0seyJ0eXBlIjoicGFnZXZpZXciLCJwYWdldmlld19pZCI6IjdlYzcxZTAxLWExODctNGM3YS03OGNiLWZlNmJlMmExNGRhYyIsImRvbWFpbl9pZCI6IjE3Mzc3MCIsInRfZXBvY2giOjE2ODY4NTA2ODIsImRhdGEiOlt7Im5hbWUiOiJwZXJmX2lzX3RyYWNrZWQiLCJ2YWwiOiIxIn0seyJuYW1lIjoicGVyZl9uYXZfdG9fY29ubmVjdCIsInZhbCI6IjUyIn0seyJuYW1lIjoicGVyZl9jb25uZWN0X3RvX3Jlc3Bfc3RhcnQiLCJ2YWwiOiI4MTQifSx7Im5hbWUiOiJwZXJmX3Jlc3BfdGltZSIsInZhbCI6IjI5In0seyJuYW1lIjoicGVyZl9pbnRlcmFjdGl2ZSIsInZhbCI6IjIxMCJ9LHsibmFtZSI6InBlcmZfY29udGVudGxvYWRlZCIsInZhbCI6IjIxMCJ9LHsibmFtZSI6InBlcmZfY29tcGxldGUiLCJ2YWwiOiIzNzU4In1dfSx7InR5cGUiOiJwYWdldmlldyIsInBhZ2V2aWV3X2lkIjoiN2VjNzFlMDEtYTE4Ny00YzdhLTc4Y2ItZmU2YmUyYTE0ZGFjIiwiZG9tYWluX2lkIjoiMTczNzcwIiwidF9lcG9jaCI6MTY4Njg1MDY4MiwiZGF0YSI6W3sibmFtZSI6ImZpcnN0X3BhaW50IiwidmFsIjoiODg1In1dfSx7InR5cGUiOiJwYWdldmlldyIsInBhZ2V2aWV3X2lkIjoiN2VjNzFlMDEtYTE4Ny00YzdhLTc4Y2ItZmU2YmUyYTE0ZGFjIiwiZG9tYWluX2lkIjoiMTczNzcwIiwidF9lcG9jaCI6MTY4Njg1MDY4MiwiZGF0YSI6W3sibmFtZSI6ImZpcnN0X2NvbnRlbnRmdWxfcGFpbnQiLCJ2YWwiOiI4ODUifV19LHsidHlwZSI6InBhZ2V2aWV3IiwicGFnZXZpZXdfaWQiOiI3ZWM3MWUwMS1hMTg3LTRjN2EtNzhjYi1mZTZiZTJhMTRkYWMiLCJkb21haW5faWQiOiIxNzM3NzAiLCJ0X2Vwb2NoIjoxNjg2ODUwNjgyLCJkYXRhIjpbeyJuYW1lIjoiY29ubmVjdGlvbl9lZmZlY3RpdmVfdHlwZSIsInZhbCI6IjRnIn1dfV0
+204
+407
+unknown	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	
+-
+N36743
+158.114.141.17	34.230.232.255	Amazon.com	United States	3	bluecoat_proxy_short
+9	06/15/2023 17:32:05.000000	www.flyfi.com	
+HTTP POST
+🔸10.66.192.0/18 in EIDB as VPN: Remote-Access-LEB
+none	POST	http://www.flyfi.com/home/plans/ajax/notification.do	407	unknown	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	-	10.66.246.200	165.160.13.20	Corporation Service Company	United States	1	bluecoat_proxy_short
+10	06/15/2023 17:29:36.000000	www.pmelforum.com	
+PHP URL
+🔸10.66.192.0/18 in EIDB as VPN: Remote-Access-LEB
+none	GET	http://www.pmelforum.com/index.php?type=rss;action=.xml	302	text/html;%20charset=UTF-8	Mozilla/4.0 (compatible; ms-office; MSOffice 16)	chinje1	10.66.244.250	67.231.246.82	Turnkey Internet	United States	5	bluecoat_proxy_short
+
+06/15/2023 17:18:17.000000	links.labelmaster.com	
+B64 @ngc.com in url - harvester prefill?
+🔸10.76.0.0/16 in EIDB as VPN: Remote-Access-RLM
+🔸10.76.128.0/17 in EIDB as VPN Client Pool
+none	GET	http://links.labelmaster.com/o/4/eyJhaSI6NjcxMTE5NTAsImUiOiJqYWNrLnJleW5vbGRzQG5nYy5jb20iLCJyaSI6ImNvbnRhY3QtMTM1ZWQ2ZTJjY2JjZWMxMTk4M2YwMDIyNDgwOTg3MjktNjQ4MDJiMjViMzExNGEyYmIzMDA3OTAxZDBlZGRmNzUiLCJycSI6IjAyLWIyMzE2NC05YTE3MmQxMWQ1ZTg0YTI5OTg2YTFlOTA3ZTRjOWU2NiIsInBoIjpudWxsfQ/mxStlsVcnAgxyp4rH-Wxjw	200	image/gif	Mozilla/4.0 (compatible; ms-office; MSOffice 16)	e61089	10.76.156.53	52.71.250.148	Amazon.com	United States	2	bluecoat_proxy_short
+12	06/15/2023 16:53:55.000000	houstoncounty.thirdwavedev.com	Image URL with Content-Type mismatch	none	GET	
+http://houstoncounty.thirdwavedev.com/img/bg-blue.jpg
+http://houstoncounty.thirdwavedev.com/img/houston-county-georgia-logo-small.png
+401	text/html	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0	RANIEJO	132.228.161.66	216.117.143.199	Advanced Internet Technologies	United States	14	bluecoat_proxy_short
+13	06/15/2023 16:53:54.000000	online.houstoncountyga.org	
+HTTP POST
+Uncommon port
+none	
+GET
+POST
+http://online.houstoncountyga.org:8011/favicon.ico
+http://online.houstoncountyga.org:8011/mrcjava/image/ascg.gif
+http://online.houstoncountyga.org:8011/mrcjava/image/bkground-body.jpg
+http://online.houstoncountyga.org:8011/mrcjava/image/dend.gif
+http://online.houstoncountyga.org:8011/mrcjava/image/descg.gif
+...plus 25 more values...
+200
+302
+304
+404
+407
+application/javascript
+image/gif
+image/jpeg
+image/png
+image/x-icon
+text/css
+text/html;charset=utf-8
+unknown
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0	
+-
+RANIEJO
+132.228.161.66	68.227.93.138	Cox Business	United States	82	bluecoat_proxy_short
+14	06/15/2023 16:51:30.000000	links.notification.intuit.com	dotNET UA	none	GET	http://links.notification.intuit.com/wf/open?upn=EPJpxvLNw6NHyVUV-2BBLCd5X2pVYsk8P-2FmSxD-2FKfXm-2FCStAbnWD40moTi9gsAAnr-2B6ee-2F9o0PCF6ydvLh1rGvCsQS71HTFDWPzfbawKeubiyyPAaiRar4bigGCpKGxAe6HQKKVaAyUa9uFOrsmO2Rf4ip-2F0BjKhbTYBCQ5SVI4vsEruPBK3d6a03-2FkwPwWDWnTHDCy2vCbZqXnNsM2jMF54D4XNsxhRwX-2Bxw2TakfHzONwRVoXpuJ12Llj9loKa6S3q7IiDVmBK3g5lJM8x2fSDIZo47CcXnCc8AnfI-2BJOm-2BhVweDSbwwsVsM91GWn9fZ3WE9nvLI3B7MGgcAnSu2-2BvhMuR6fvlKZYElOJCH88LcS8iDYH7cvx3Jsd-2Fv7fdpb7HvTLpIm6Exp-2FwIBdOqYx-2BboNG0UheE8mE6tkaXgbJT1UladsUJLMK0SUOt9Z-2BulzadmAb9ZV6iBpBQ1TvcIac-2B1JGhm-2BLrkGpOq54Si8C-2FAgQKvKINyhfByeEHWzvpc6K2rGnU9eWzQvgrEt4AsIDX31OGmDTTO6onJe5cq158WbfFimoK4tqxMmJDGstkzYTXMxvHBRcMJ1Ni0hNIGsS7dG3zBpFXvmCK7AbynhRrorZCbHuxGJ-2FxqM4VjxuClqvmkxcQe3lbxidvDCqlCnUk-2BA3ZBkW56ZiGv3afiqBv7qha9OlRQ1YASXxLsYyL60r6iyxvabrcWdA02B6kouLHtaBcnqWnAh-2FABwoce9iKJACyqKnu-2Fgg3VGpvI3qJepbNjoQSPx2hw5ipaPWX7XDun7WlKXR-2FUYaheb9YdMz2XRJOv8pQJz53D9Cox1x7n6L6-2Bhbk7puQi9KOlMeDQAg-3D-3D	
+200
+407
+image/gif
+unknown
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Zoom 3.6.0)	
+-
+N40179
+10.162.114.140	167.89.123.54	SendGrid	United States	2	bluecoat_proxy_short
+15	06/15/2023 16:48:23.000000	www.onlineregister.com	PHP URL	none	GET	http://www.onlineregister.com/powerregister/webview/url.php?PROD=FUJ1&VERS=0201&LANG=EN&file=reg	
+403
+407
+unknown	PowerRegister	
+-
+ZZM67973
+153.113.39.95	35.190.2.14	Google Cloud	United States	2	bluecoat_proxy_short
+16	06/15/2023 16:23:00.000000	mirrors.rcs.alaska.edu	High event count	none	GET	
+http://mirrors.rcs.alaska.edu/centos/8-stream/BaseOS/x86_64/os/Packages/emacs-filesystem-26.1-11.el8.noarch.rpm
+http://mirrors.rcs.alaska.edu/centos/8-stream/BaseOS/x86_64/os/Packages/fuse-common-3.3.0-17.el8.x86_64.rpm
+http://mirrors.rcs.alaska.edu/centos/8-stream/BaseOS/x86_64/os/Packages/fuse3-3.3.0-17.el8.x86_64.rpm
+http://mirrors.rcs.alaska.edu/centos/8-stream/BaseOS/x86_64/os/Packages/fuse3-libs-3.3.0-17.el8.x86_64.rpm
+http://mirrors.rcs.alaska.edu/centos/8-stream/BaseOS/x86_64/os/Packages/groff-base-1.22.3-18.el8.x86_64.rpm
+...plus 48 more values...
+200	
+application/x-gzip
+application/x-rpm
+text/xml
+libdnf (CentOS Stream 8; generic; Linux.x86_64)	-	10.14.64.83	199.165.82.202	University of Alaska	United States	53	bluecoat_proxy_short
+17	06/15/2023 16:07:56.000000	www.high-paying-travelnursejobs.website	PHP URL	none	GET	http://www.high-paying-travelnursejobs.website/index.php?pr=ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SndjbTltYVd4bElqb3pNak01T1RReUxDSjBZV2MwSWpvaVEwRWlMQ0pxZEdraU9pSTRaRGszWkRjd1l5MDVZVGxpTFRSaE1UUXRPVEZtT1Mxa1pqSXlZamhsWmpCbE5UY2lMQ0p3Y205MGIyTnZiQ0k2SWtOaGJYQTBOellpTENKMFlXY3lJam9pZTJsa01YMGlMQ0owWVdjeklqb2llMmxrTW4waUxDSnBZWFFpT2pFMk9EWTRORFV5TnpNc0luUmliR05wSWpvaVIybEROa1pyZUdkUFJXTnRiVEkwUW00NVVUWndkMmhzUTIwelp6bHdRekIxVEcwNFJWVkRkWGh4YW01emVVUnhlREZKYjJoamJXVjZaSFk0T1U5dlRpSXNJblIwYkNJNkludHBaREo5SWl3aWJuTmhhV1FpT201MWJHd3NJbU53Y1hNaU9udDlMQ0pzWjNRaU9qWXNJbUp5YVdRaU9qTXpOU3dpYTNCMElqb2lRblZqYTJWMElGQnliMlpwYkdVaUxDSmhkV1FpT2xzaWFHbG5hQzF3WVhscGJtY3RkSEpoZG1Wc2JuVnljMlZxYjJKekxuZGxZbk5wZEdVaVhTd2lhWE56SWpvaVptbHVaRzE1WW1WemRITmxZWEpqYUM1amIyMGlMQ0pzZENJNklsOWliR0Z1YXlJc0ltRmtjSEp2ZG1sa1pYSnpJanBiSW5CaGNuUnVaWEl0WkhBdGMzQm9aWEpsTVRKZk0zQm9YMnB6SWl3aWNHRnlkRzVsY2kxa2NDMXpjR2hsY21VeE1sOHpjR2hmYW5NaVhTd2laWGh3SWpveE5qZzJPRFV3TnpNekxDSnphV1FpT2pZME5qSXpMQ0pzZEdzaU9tNTFiR3dzSW5Ccklqb2lWSEpoZG1Wc0swNTFjbk5wYm1jaUxDSjBlWEJsSWpvaWEyVjVkMjl5WkNKOS5hTW4zZTFTYjVyV3MybE1lcVREa1ZYeVQ0akNDNkYzcl9sOHNselZHYjgw&tag5=15057&tag6=7055	200	text/html;%20charset=UTF-8	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	M55773	10.117.160.38	35.165.255.15	Amazon.com	United States	1	bluecoat_proxy_short
+18	06/15/2023 15:53:56.000000	javadl-esd.sun.com	dotNET UA	none	GET	http://javadl-esd.sun.com/update/1.6.0/jinstall-6-windows-i586.cab	404	unknown	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Zoom 3.6.0; Zoom 3.6.0)	
+OberiHe
+e34136
+10.103.37.54
+153.113.38.157
+23.220.206.63
+23.220.206.66
+Akamai Technologies	United States	2	bluecoat_proxy_short
+19	06/15/2023 15:47:39.000000	linkprotect.cudasvc.com	
+High event count
+🔸10.65.0.0/16 in EIDB as Guestnet Client Pool
+ 	CONNECT	https://linkprotect.cudasvc.com	403	unknown	unknown	-	10.65.78.245	54.175.209.239	Amazon.com	United States	64	websense_proxy_syslog
+20	06/15/2023 15:16:35.000000	gw.geoedge.be	
+High event count
+🔸10.65.0.0/16 in EIDB as Guestnet Client Pool
+ 	CONNECT	https://gw.geoedge.be	403	unknown	
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0
+Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+unknown
+-	
+10.160.107.36
+10.22.140.200
+10.22.3.152
+10.22.71.11
+10.22.87.219
+10.65.130.122
+10.65.132.230
+10.65.143.206
+10.65.147.25
+10.65.150.144
+10.65.152.190
+10.65.152.70
+10.65.156.166
+10.65.192.26
+10.65.195.248
+10.65.214.13
+10.65.222.249
+10.65.239.15
+10.65.65.59
+10.65.66.16
+10.65.68.61
+10.65.70.42
+10.65.74.126
+10.65.76.61
+10.65.78.191
+10.65.78.252
+54.192.103.94	Amazon CloudFront	United States	311	websense_proxy_syslog
+
+06/15/2023 14:18:23.000000	knight-us.us-west-1.log.aliyuncs.com	
+High event count
+🔸10.65.0.0/16 in EIDB as Guestnet Client Pool
+ 	CONNECT	https://knight-us.us-west-1.log.aliyuncs.com	403	unknown	unknown	-	10.65.136.180	47.88.73.126	Alibaba	United States	253	websense_proxy_syslog
+22	06/15/2023 13:40:06.000000	winscp.net	
+HTTP POST
+PHP URL
+🔸10.76.0.0/16 in EIDB as VPN: Remote-Access-RLM
+🔸10.76.0.0/17 in EIDB as VPN Client Pool
+none	POST	http://winscp.net/updates.php?v=5.5.4.4433&lang=0409&dotnet=&console	
+200
+407
+text/plain;%20charset=utf-8
+unknown
+unknown	
+-
+J27494
+SchneKe
+10.162.104.157
+10.76.10.11
+10.76.15.230
+88.198.21.111	Hetzner Online	Germany	4	bluecoat_proxy_short
+23	06/15/2023 13:25:58.000000	ocsp.serverid.telesec.de	HTTP POST	none	POST	http://ocsp.serverid.telesec.de/ocspr	200	application/ocsp-response	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0	J33727	10.162.249.52	80.158.50.254	T-Systems International GmbH	Germany	1	bluecoat_proxy_short
+24	06/15/2023 13:25:28.000000	saving.cdn-krs.com	High event count	
+Potentially Malicious Sites
+Uncategorized
+GET	
+https://saving.cdn-krs.com/fileadmin/default/css/basics.1686688781.css
+https://saving.cdn-krs.com/fileadmin/default/css/fa6pro.all.min.1682409445.css
+https://saving.cdn-krs.com/fileadmin/default/css/flexnav.1686688781.css
+https://saving.cdn-krs.com/fileadmin/default/css/fonts-graphik.1661762268.css
+https://saving.cdn-krs.com/fileadmin/default/css/lightbox.min.1637140893.css
+...plus 33 more values...
+200	
+application/javascript; charset=utf-8
+font/otf
+font/woff2
+image/svg+xml
+text/css; charset=utf-8
+text/javascript; charset=utf-8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	n44419	10.163.121.93	104.21.23.196	Cloudflare	 	131	netskope:web_transaction
+25	06/15/2023 13:19:21.000000	www.totally44.com	
+PHP URL
+🔸155.104.44.0/22 in EIDB as VPN Client Pool
+Potentially Malicious Sites
+Uncategorized
+GET	https://www.totally44.com/tpshpnln.php?id=.n2[,c_JFe__w?3h?XrWZ:8a&gb=1	302	text/html; charset=UTF-8	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	jaschka	155.104.47.147	192.185.57.118	Network Solutions, LLC	United States	1	netskope:web_transaction
+26	06/15/2023 13:19:19.000000	dns301.cloudstatapi.com	PHP URL	
+Potentially Malicious Sites
+Uncategorized
+GET	
+http://dns301.cloudstatapi.com/favicon.ico
+http://dns301.cloudstatapi.com/html02_v301.php?hh=baits.pl&s=1.13.156064.1.28.64.10%20carat%20diamond%20earrings%20price
+302
+404
+text/html
+text/html; charset=UTF-8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	j70690	129.4.61.23	172.67.170.102	Cloudflare	United States	2	netskope:web_transaction
+27	06/15/2023 13:06:45.000000	dsk-016-1.fsid.cvut.cz	
+Risky file ext in URL
+Uncommon port
+none	GET	
+http://dsk-016-1.fsid.cvut.cz:2080/favicon.ico
+http://dsk-016-1.fsid.cvut.cz:2080/texis/search/jsearch2.js?Book=rnb&CDB=v6.12
+http://dsk-016-1.fsid.cvut.cz:2080/v6.12/books/rnb/browserDetection.js
+http://dsk-016-1.fsid.cvut.cz:2080/v6.12/books/rnb/default.htm?startat=abc05aqs04.html
+http://dsk-016-1.fsid.cvut.cz:2080/v6.12/books/rnb/default.js
+...plus 27 more values...
+200
+404
+application/javascript
+image/gif
+image/jpeg
+image/x-icon
+text/html
+text/html;%20charset=iso-8859-1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36	M83459	10.118.33.255	147.32.171.78	CESNET z.s.p.o.	Czechia	32	bluecoat_proxy_short
+28	06/15/2023 13:06:44.000000	130.149.89.49	
+Direct to IP
+Uncommon port
+none	GET	
+http://130.149.89.49:2080/v6.14/books/usi/blank
+http://130.149.89.49:2080/v6.14/books/usi/pt04ch31s04hlb01.html
+http://130.149.89.49:2080/v6.14/books/usi/pt04ch31s04s01.html
+200
+404
+407
+text/html
+unknown
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36	
+-
+M83459
+10.118.33.255	130.149.89.49	Deutsches Forschungsnetz	Germany	4	bluecoat_proxy_short
+29	06/15/2023 13:03:32.000000	stretchsneeze.com	HTTP POST	Potentially Malicious Sites	POST	https://stretchsneeze.com/post/bf7c8e95cebaf81caba6eb11cf5af280a95660a15f5d5f3c49b8	200	text/plain;charset=UTF-8	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	n22855	10.0.0.195	35.244.133.240	Google Cloud	United States	4	netskope:web_transaction
+30	06/15/2023 13:01:18.000000	relay.lr-wa.com	PHP URL	Potentially Malicious Sites	GET	
+https://relay.lr-wa.com/aHR0cHM6Ly9jZG4uc2VnbWVudC5jb20=/__lrm__YW5hbHl0aWNz__lrm__.js/v1/hn3yvJCms37nkkjrwDQ08PuKJKydGtAZ/__lrm__YW5hbHl0aWNz__lrm__.min.js
+https://relay.lr-wa.com/aHR0cHM6Ly9kZXYudmlzdWFsd2Vic2l0ZW9wdGltaXplci5jb20=/j.php?a=338524&u=https%3A%2F%2Fblog.logrocket.com%2Fconfiguring-nodemon-with-typescript%2F&f=1&r=0.38954318653697984
+https://relay.lr-wa.com/aHR0cHM6Ly9kZXYudmlzdWFsd2Vic2l0ZW9wdGltaXplci5jb20=/j.php?a=338524&u=https%3A%2F%2Fblog.logrocket.com%2Fconfiguring-nodemon-with-typescript%2F&f=1&r=0.6585936395572252
+https://relay.lr-wa.com/aHR0cHM6Ly9kZXYudmlzdWFsd2Vic2l0ZW9wdGltaXplci5jb20=/j.php?a=338524&u=https%3A%2F%2Fblog.logrocket.com%2Fguide-state-management-next-js%2F&f=1&r=0.3069266450640187
+200	
+application/javascript; charset=UTF-8
+text/javascript; charset=utf-8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	
+d77768
+n15377
+10.162.116.9
+137.51.29.40
+104.21.20.161
+172.67.193.49
+Cloudflare	United States	6	netskope:web_transaction
+06/15/2023 12:55:03.000000	blackbrake.com	HTTP POST	Potentially Malicious Sites	
+GET
+POST
+https://blackbrake.com/submit/46303cd/132409ccac3b9d643c86dbca66ec5a3f150f85da3ccb78d85300770d7272cdb19425b273a15b4273ed7
+https://blackbrake.com/v2cwqyWg_UyhnMxFDWZVNSdkijWS7lNI0v_EjVjGx9uSzeWYF-wGdGq_J4oJVmnASgO4plXhw8IzYgdw4mA
+https://blackbrake.com/v2hskKIg9w25jHVOq6bXwLwJR3CbKQZ8NQoy21BLwWLyHMKXTnLWjemt8947WIUzApw
+https://blackbrake.com/v2kccNXo4yxF3Jle1ki_EGC_b9cXATI-UrSwyFQhNgMWLtc3dlcaxcMGCgIH2xKEHHg
+200
+304
+text/javascript; charset=utf-8
+text/plain;charset=UTF-8
+unknown
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	
+n16552
+n18727
+rauhute
+10.118.34.140
+132.228.87.132
+192.168.1.130
+34.149.178.20	Google Cloud	United States	14	netskope:web_transaction
+32	06/15/2023 12:55:02.000000	pq.mynetgear.com	
+High event count
+Uncommon port
+none	GET	
+http://pq.mynetgear.com:3000/videoplayback?expire=1686854296&ei=OAaLZKaHF4uAy_sPvdeF2Ag&ip=136.53.123.80&id=o-AOb4D0AMKO-iEXCL1pHXrkgFXKGRuCscstMjSsB_4l3P&itag=140&source=youtube&requiressl=yes&mh=Ti&mm=31%2C29&mn=sn-bvvbax4pcxg-in8e%2Csn-5ualdnsz&ms=au%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=20&initcwndbps=655000&spc=qEK7BzP-TxxztfXQ66G6ZBpCmaMkK7k&vprv=1&svpuc=1&mime=audio%2Fmp4&gir=yes&clen=47901055&dur=2959.754&lmt=1674599748769254&mt=1686832400&fvip=5&keepalive=yes&fexp=24007246&beids=24350017&c=ANDROID&txp=6211224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhALjMvHkAlVmn2mv5x8tiBArXMHWwWiv6pKSuRDSiTr8sAiEAvIscUZTcsxNAXavh-XMV0-CKZJwJDRhwFh2BUGxOGGA%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgKvb9Dyd3j4m_CJj6haxX8Q1L-wQPSaUfkxe6IgUMViYCIA8PFlN9jD4ffGKaISJO82zupmMRIY51CXFxtBHbHYHm&host=rr1---sn-bvvbax4pcxg-in8e.googlevideo.com
+http://pq.mynetgear.com:3000/videoplayback?expire=1686854296&ei=OAaLZKaHF4uAy_sPvdeF2Ag&ip=136.53.123.80&id=o-AOb4D0AMKO-iEXCL1pHXrkgFXKGRuCscstMjSsB_4l3P&itag=298&source=youtube&requiressl=yes&mh=Ti&mm=31%2C29&mn=sn-bvvbax4pcxg-in8e%2Csn-5ualdnsz&ms=au%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=20&initcwndbps=655000&spc=qEK7BzP-TxxztfXQ66G6ZBpCmaMkK7k&vprv=1&svpuc=1&mime=video%2Fmp4&gir=yes&clen=32106765&dur=2959.690&lmt=1674600673028171&mt=1686832400&fvip=5&keepalive=yes&fexp=24007246&beids=24350017&c=ANDROID&txp=6216224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wQwIgU7TA4ZdCz_D4ydXUNKy8lFlrVoDGifmyC-2LC9NfDbACH3fHBbXWRtqsc7TSECyX4JXl0OqManz-tWTutG31TcQ%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgKvb9Dyd3j4m_CJj6haxX8Q1L-wQPSaUfkxe6IgUMViYCIA8PFlN9jD4ffGKaISJO82zupmMRIY51CXFxtBHbHYHm&host=rr1---sn-bvvbax4pcxg-in8e.googlevideo.com
+206	
+audio/mp4
+video/mp4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0	N44318	10.162.118.153	136.53.123.80	Google Fiber	United States	195	bluecoat_proxy_short
+33	06/15/2023 12:47:12.000000	overseas-singapore.ap-southeast-1.log.aliyuncs.com	
+HTTP POST
+🔸10.65.0.0/16 in EIDB as Guestnet Client Pool
+ 	POST	http://overseas-singapore.ap-southeast-1.log.aliyuncs.com/logstores/red_tide/shards/lb	302	unknown	sls-ios-sdk_v2.2.6	-	10.65.78.220	47.88.128.3	Alibaba	Singapore	8	websense_proxy_syslog
+34	06/15/2023 12:46:30.000000	weboptimizer.xyz	PHP URL	
+Potentially Malicious Sites
+Uncategorized
+GET	https://weboptimizer.xyz/script/web/webscript.php?site=639	200	application/javascript	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	j41821	153.113.23.31	146.148.94.222	Google Cloud	United States	8	netskope:web_transaction
+35	06/15/2023 12:45:45.000000	cloud.typography.com	
+WebDAV UA
+🔸10.76.0.0/16 in EIDB as VPN: Remote-Access-RLM
+🔸10.76.0.0/17 in EIDB as VPN Client Pool
+none	OPTIONS	http://cloud.typography.com/7463554/799526/css/fonts.css	
+407
+501
+unknown	Microsoft-WebDAV-MiniRedir/10.0.19044	
+-
+tripppa
+10.76.16.132	23.194.150.153	Akamai Technologies	United States	3	bluecoat_proxy_short
+36	06/15/2023 12:30:45.000000	xandertaylor.co.uk	PHP URL	Potentially Malicious Sites	GET	https://xandertaylor.co.uk/applemusic/index.php?action=get_audio_preview_url&searchTerm=Los+del+Chipmunks+Macarena&searchTypes=songs	200	text/plain	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	m42127	192.168.40.161	54.202.134.2	Amazon.com	United States	1	netskope:web_transaction
+37	06/15/2023 12:28:55.000000	vhstatic.ml	
+High event count
+Wordpress server
+Potentially Malicious Sites
+Uncategorized
+GET	
+https://vhstatic.ml/wp-content/plugins/ads-for-wp/public/assets/css/adsforwp-front.min.css?ver=1.9.16.1
+https://vhstatic.ml/wp-content/plugins/ads-for-wp/public/assets/js/ads-front.min.js?ver=1.9.16.1
+https://vhstatic.ml/wp-content/plugins/ads-for-wp/public/assets/js/ads-frontend.min.js?ver=1.9.16.1
+https://vhstatic.ml/wp-content/plugins/buddypress-edit-activity/assets/js/buddypress-edit-activity.min.js?ver=1.1.1
+https://vhstatic.ml/wp-content/plugins/buddypress/bp-activity/css/blocks/latest-activities.min.css?ver=11.2.0
+...plus 57 more values...
+200	
+application/javascript
+text/css
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36	j90605	192.168.0.218	172.67.156.58	Cloudflare	United States	62	netskope:web_transaction
+38	06/15/2023 12:28:10.000000	nleditor.osi.office.net.mcas-gov.us	HTTP POST	
+Potentially Malicious Sites
+Uncategorized
+OPTIONS
+POST
+https://nleditor.osi.office.net.mcas-gov.us/NLEditor/Config/V2?McasCtx=2&McasUserAuth=casBCm5pcHR1Y2tfMDFqVVTUVGgztTPKC3aShtymZm00GVux6N6VyBMtBhs4fo2jBZPsck2eGa8ntWWOLPEoI7SQKXgfdYIilvmImXQkGxv2yjN6MboIOjnrmAOKYsH2OjWb-4noHYB5kIRlnnpkpcDK9aOSS-1hnSzqFbB8oKmmYFC7DkSMcQxyelQJFfJoJOl7ysOGfTYzl9zxs1zrJTGWDCea6uUqmcfHGkNTtBJFukNjzv2NUitzj9Urv9SYrfHG4a_57YIImoFpX8IMThuAaS8JRL8xNd8JxewyhwauyVJdSZDXm3ZsQTK0Ho4XvWTxNlz-oE3p_ufv7BCsnGGJtqoYUc_pxch2H3Sv	
+200
+204
+application/json
+unknown
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0	n02380	132.228.127.127	13.72.27.219	Microsoft Azure	United States	2	netskope:web_transaction
+39	06/15/2023 12:13:45.000000	rs-stripe.drinksmokedie.com	Image URL with Content-Type mismatch	
+Potentially Malicious Sites
+Uncategorized
+GET	
+https://rs-stripe.drinksmokedie.com/branding/recommend/powerinbox-rec-reg.png
+https://rs-stripe.drinksmokedie.com/stripe/image?cs_email=ed08332f6c835b6ba3a3d566fdfc1d24&cs_stripeid=127372&cs_sendid=&cs_offset=0&cs_esp=sparkpost
+https://rs-stripe.drinksmokedie.com/stripe/image?cs_email=ed08332f6c835b6ba3a3d566fdfc1d24&cs_stripeid=127373&cs_sendid=&cs_offset=0&cs_esp=sparkpost
+301
+303
+text/html; charset=utf-8
+unknown
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148	authech	10.36.80.199	20.225.97.235	Microsoft Azure	United States	6	netskope:web_transaction
+40	06/15/2023 12:06:52.000000	www.flowtoyotaofcharlottesville.com	Risky file ext in URL	Potentially Malicious Sites	GET	
+https://www.flowtoyotaofcharlottesville.com/favicon.ico
+https://www.flowtoyotaofcharlottesville.com/new-inventory/index.htm?search=Toyota+Highlander&_pcids=2aeb0d49142e4b1dacf5c976c4c3e770%2c31418cd5eef74df49b87960a7b5cc80a%2ca07821c4f1f1454fcc03b2df05fa6309%2ccf927092da9b6bfa83b158064c545742&_pcsourceid=87adfb57a330f05cb6f3f0105771c874&_vsrefdom=NEW&gclid=EAIaIQobChMIp7mttp7F_wIV1QxMCh1wfgkEEAAYASAAEgIZsfD_BwE
+200
+404
+text/html;charset=utf-8	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	gibbopa1	10.0.0.163	23.33.238.186	Akamai Technologies	United States	2	netskope:web_transaction
+
+
+06/15/2023 11:53:13.000000	golfbacktech.com	Wordpress server	
+Potentially Malicious Sites
+Uncategorized
+GET	
+https://golfbacktech.com/viera/wp-content/uploads/2023/05/IMG-5757.jpg
+https://golfbacktech.com/viera/wp-content/uploads/2023/05/viera2.jpg
+https://golfbacktech.com/viera/wp-content/uploads/2023/05/viera3.jpg
+https://golfbacktech.com/viera/wp-content/uploads/2023/05/viera4.jpg
+https://golfbacktech.com/viera/wp-content/uploads/2023/05/viera6.jpg
+200	image/jpeg	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	j09077	10.174.249.35	170.187.134.173	Akamai Connected Cloud	United States	10	netskope:web_transaction
+42	06/15/2023 11:44:10.000000	assets.videoplatform.tv	Image URL with Content-Type mismatch	Potentially Malicious Sites	GET	
+https://assets.videoplatform.tv/end/2023/06/14/282896_fbi-madruga-con-multiples-arrestos-en-san-juan-incluye-acusacion-contra-suegro-de-felix-verdejo/still_3741ab61dba0b4a39bd730ae57841694.jpg
+https://assets.videoplatform.tv/end/2023/06/14/282901_las-ultimas-palabras-de-acevedo-vila-sobre-piti-gandara-antes-de-morir-emocional-y-espiritualmente-ya-esta-lista/still_ef387424377c97c1fdcdcbd26dc1e291.jpg
+200	binary/octet-stream	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	j31337	10.174.138.32	104.18.17.249	Cloudflare	 	2	netskope:web_transaction
+43	06/15/2023 11:42:18.000000	tourbuilder.cloud	High event count	
+Potentially Malicious Sites
+Uncategorized
+GET	
+https://tourbuilder.cloud/SVE/5c757bf9eaa07817771055b1/tours/6064876111b32859b1406e7e/6064878a11b32859b1406e98/6064878a11b32859b1406e99/thumb.jpg?thumbnailLoader=true
+https://tourbuilder.cloud/SVE/5c757bf9eaa07817771055b1/tours/6064876111b32859b1406e7e/6064878a11b32859b1406e98/6064878e11b32859b1406e9c/thumb.jpg?thumbnailLoader=true
+https://tourbuilder.cloud/SVE/5c757bf9eaa07817771055b1/tours/6064876111b32859b1406e7e/6064878a11b32859b1406e98/6064879611b32859b1406ea2/thumb.jpg?thumbnailLoader=true
+https://tourbuilder.cloud/SVE/5c757bf9eaa07817771055b1/tours/6064876111b32859b1406e7e/6064878a11b32859b1406e98/6064879a39ffcd6cabbaef0b/thumb.jpg?thumbnailLoader=true
+https://tourbuilder.cloud/SVE/5c757bf9eaa07817771055b1/tours/6064876111b32859b1406e7e/6064878a11b32859b1406e98/6064879e11b32859b1406ea5/thumb.jpg?thumbnailLoader=true
+...plus 757 more values...
+200
+unknown
+image/jpeg
+unknown
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	m33072	132.228.234.25	104.22.44.122	Cloudflare	 	1155	netskope:web_transaction
+44	06/15/2023 11:24:25.000000	martins.tkl68z.net	HTTP POST	
+Potentially Malicious Sites
+Uncategorized
+POST	
+https://martins.tkl68z.net/cur/10970
+https://martins.tkl68z.net/xur/10970
+204
+unknown
+application/x-www-form-urlencoded;charset=UTF-8
+text/plain;charset=UTF-8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36	e80052	10.112.46.129	
+34.202.219.38
+44.199.165.38
+52.6.26.142
+52.87.21.3
+Amazon.com	United States	91	netskope:web_transaction
