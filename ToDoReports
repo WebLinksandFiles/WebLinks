@@ -13,6 +13,11 @@ text/css
 text/html;%20charset=UTF-7
 text/javascript;charset=UTF-8
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43	M69765	129.4.220.101	169.62.133.106	SoftLayer Technologies	 	20	bluecoat_proxy_short
+
+No Action - FP
+Appears to be a website focused on springs, Since the website is built on wordpress it triggered the alert.
+No Blocks
+
 6	06/15/2023 18:20:40.000000	awitness.com	Risky file ext in URL	none	GET	
 http://awitness.com/SMD-Software/SMD-TTS/Application%20Files/Torque%20to%20spreadsheet_1_1_0_0/Torque%20to%20spreadsheet.exe.manifest
 http://awitness.com/SMD-Software/SMD-TTS/Torque%20to%20spreadsheet.application
@@ -20,6 +25,7 @@ http://awitness.com/SMD-Software/SMD-TTS/Torque%20to%20spreadsheet.application
 application/x-ms-application
 application/x-ms-manifest
 unknown	J59941	10.160.178.42	64.90.43.194	New Dream Network, LLC	United States	2	bluecoat_proxy_short
+
 7	06/15/2023 18:08:52.000000	uvermont.mm.fcix.net	High event count	none	GET	
 http://uvermont.mm.fcix.net/centos/8-stream/BaseOS/x86_64/os/Packages/emacs-filesystem-26.1-11.el8.noarch.rpm
 http://uvermont.mm.fcix.net/centos/8-stream/BaseOS/x86_64/os/Packages/fuse-common-3.3.0-17.el8.x86_64.rpm
